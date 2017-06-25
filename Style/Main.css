@@ -1,0 +1,20 @@
+@font-face {
+  font-family: myUnderwood;
+  src: url(Fonts/MyUnderwood.ttf);
+}
+
+.Title {
+	text-align: center;
+	font-family: myUnderwood;
+	font-size: 30px;
+}
+
+.LeftPage {
+	text-align: right;
+	line-height: 15px;
+}
+
+.RightPage {
+	text-align: left;
+	line-height: 15px;
+}
